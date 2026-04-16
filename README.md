@@ -1,4 +1,4 @@
-# Customer churn prediction
+ # 📊 Customer Churn Prediction
 
 ## 🚀 Overview
 
@@ -187,3 +187,5 @@ from data preprocessing to deployment. It can help businesses proactively identi
 ## 📬 Contact
 
 If you have any questions or suggestions, feel free to connect!
+
+---
