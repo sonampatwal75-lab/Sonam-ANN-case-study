@@ -1,4 +1,4 @@
-# Sonam-ANN-case-study
+# Customer churn prediction
 
 ## 🚀 Overview
 
